@@ -4,7 +4,8 @@
 namespace day1 
 {
 
-int getSum();
+int getSum1();
+int getSum2();
 
 }
 

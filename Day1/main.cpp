@@ -3,6 +3,7 @@
 #include <day1.h>
 
 int main() {
-  std::cout << day1::getSum() << std::endl;
+  std::cout << "1-0: " << day1::getSum1() << std::endl;
+  std::cout << "1-1: " << day1::getSum2() << std::endl;
   return 0;
 }
